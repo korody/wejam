@@ -1,0 +1,37 @@
+# Site settings
+title: WeJam
+description: 'Gerar oportunidades e experiências através da arte facilitando a aproximação, contratação e colaboração entre artistas, apreciadores e contratantes do mercado criativo, através de uma plataforma multilateral.'
+url: 'http://www.wejam.com.br'
+baseurl: '/'
+# google_analytics: 'UA-91361137-1'
+# disqus_shortname: 'your-disqus-name'
+
+contact:
+  name: 'Marcos Korody'
+  email: equipe@wejam.com.br
+  facebook_username: redewejam
+  instagram_username: w.e.j.a.m
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
