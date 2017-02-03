@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WeJam</title>
-    <description>Gerar oportunidades e experiências através da arte facilitando a aproximação, contratação e colaboração entre artistas, apreciadores e contratantes do mercado criativo, através de uma plataforma multilateral.</description>
-    <link>http://www.wejam.com.br//</link>
-    <atom:link href="http://www.wejam.com.br//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 02 Feb 2017 23:45:46 -0200</pubDate>
-    <lastBuildDate>Thu, 02 Feb 2017 23:45:46 -0200</lastBuildDate>
+    <description>para gerar oportunidades e experiências através da arte facilitando a aproximação, contratação e colaboração entre artistas, apreciadores e contratantes do mercado criativo, através de uma plataforma multilateral.</description>
+    <link>http://www.wejam.com.br/wejam//</link>
+    <atom:link href="http://www.wejam.com.br/wejam//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 03 Feb 2017 15:01:16 -0200</pubDate>
+    <lastBuildDate>Fri, 03 Feb 2017 15:01:16 -0200</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 13:04:23 -0200</pubDate>
-        <link>http://www.wejam.com.br//2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://www.wejam.com.br//2016/welcome-to-jekyll/</guid>
+        <link>http://www.wejam.com.br/wejam//2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://www.wejam.com.br/wejam//2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
